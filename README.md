@@ -17,7 +17,7 @@ The problem is that it only works within the current lot. If you leave the lot o
 
 If anyone who’s good with Python and scripting wants to take a look, I can upload the code to my GitHub. Hopefully, someone can take what I've started and finally get this working in The Sims 4!
 
-Thanks a bunch, and fingers crossed someone can pick this up!
+Thanks, and fingers crossed someone can pick this up!
 
 
 VIDEO LINK https://youtu.be/-hLe9TFUuvg
